@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-In this text mining project, my colleagues and I conducted exploratory data analysis on a tweet dataset. We used two NLP approaches: LSTM for neural networks and DistilBERT for transformers. Finally, we compared the models. Check out Part 1 and Part 2. Enjoy!
+Exciting sentiment analysis project! My colleagues and I analyzed tweet sentiments and constructed a robust sentiment analysis model using advanced techniques like natural language processing, machine learning, and neural networks. After exploratory data analysis, we implemented LSTM and DistilBERT approaches. Enjoy! 🚀🧑‍💻📊🧠🤖
